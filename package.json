@@ -8,9 +8,9 @@
     "posttest": "nsp check"
   },
   "engines": {
-        "node": "5.6.0",
-        "npm":  "3.6.0"
-    },
+    "node": "5.6.0",
+    "npm": "3.6.0"
+  },
   "dependencies": {
     "compression": "^1.0.3",
     "cors": "^2.5.2",
@@ -21,6 +21,7 @@
     "loopback-connector-mongodb": "^1.13.3",
     "loopback-datasource-juggler": "^2.39.0",
     "mongodb": "^2.1.7",
+    "nodemon": "^1.9.0",
     "serve-favicon": "^2.0.1"
   },
   "devDependencies": {
